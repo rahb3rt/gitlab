@@ -55,7 +55,7 @@ GEM
       excon (>= 0.47.0)
       multi_json
     equalizer (0.0.11)
-    excon (0.62.0)
+    excon (0.99.0)
     gitlab-styles (9.0.0)
       rubocop (~> 1.36.0)
       rubocop-gitlab-security (~> 0.1.1)
